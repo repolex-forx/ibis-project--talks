@@ -1,0 +1,11 @@
+{
+  "org": "ibis-project",
+  "repo": "talks",
+  "versions": [
+    {
+      "commit": "258cc49736dcf35e0073e0a137c07c08c07be1b4",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:08:20.972782+00:00"
+    }
+  ]
+}
