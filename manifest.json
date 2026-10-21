@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "ibis-project",
+  "repo": "talks",
+  "versions": [
+    {
+      "commit": "258cc49736dcf35e0073e0a137c07c08c07be1b4",
+      "parsed_at": "2026-10-21T20:06:01.120953+00:00",
+      "filetree": "filetree/258cc49736dcf35e0073e0a137c07c08c07be1b4.nq.gz",
+      "blobs": [
+        "blob/73dd94a1a033cbac706d9afb4ca2d70e9e52572b.nq.gz",
+        "blob/75e62cf72956b3feb04397483fdc418d69fdaf1f.nq.gz",
+        "blob/21dadc10007064af9f41ea0e448b1b668bdc5bf6.nq.gz",
+        "blob/a5b4e8ff687ce13534b518ca2b84a0b1276a6e1b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
